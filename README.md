@@ -1,4 +1,3 @@
-# E-Commerce-Customer-Sales-Intelligence-SQL-Project
 ## Project Overview
 This project analyzes **e-commerce customer, product, category, and sales data** using SQL to generate meaningful business insights.
 The objective was to understand **revenue performance, customer behavior, product performance, category contribution, and sales trends** using real-world Data Analyst-style business questions.
@@ -51,11 +50,27 @@ The project uses three relational tables:
 
 ## 📊 Key Business Insights
 - ### Total revenue: ₹3,74,400
+### Screenshot 1-Total_revenue
+<img width="1304" height="592" alt="Total_revenue" src="https://github.com/user-attachments/assets/052a12b1-7e0d-4380-adf5-b6e6e6641365" />
+
+-----
 - ### Top customer: Rahul — ₹82,000
 - Rahul contributed approximately **21.9%** of overall revenue.
+  ### Screenshot 2-Customers_revenue
+  <img width="1310" height="647" alt="Customers_revenue" src="https://github.com/user-attachments/assets/b1755d87-6c42-434a-a336-cd43fc9d44f0" />
+
+-----
 - **Electronics** generated ₹3,44,000, contributing approximately **91.88%** of total revenue.
 - **Accessories** generated ₹30,400, contributing approximately **8.12%**.
+  ### Screenshot 3-Category wise revenue
+  <img width="1298" height="630" alt="Category wise revenue" src="https://github.com/user-attachments/assets/85aee057-6d0f-4633-9845-3b4db647c0a4" />
+
+-----
 - **Laptop** was the highest-revenue product with ₹1,65,000.
+  ### Screenshot 4-HIGHEST REVENUE PRODUCT
+  <img width="1303" height="635" alt="HIGHEST REVENUE PRODUCT" src="https://github.com/user-attachments/assets/90714531-561d-4968-90d1-416e5e4b50cb" />
+
+-----
 - The analysis also identified customers with significant revenue contribution and repeat-order behavior.
 
 ## 🔍 Key Analysis Performed
